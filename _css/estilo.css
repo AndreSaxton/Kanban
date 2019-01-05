@@ -1,0 +1,42 @@
+.container{
+    padding: 10px;
+    background-color: antiquewhite;
+    width: auto;
+    height: auto;
+    display: inline-flex;
+    min-height: 200px;
+}
+.collum{
+    background-color: aqua;
+    margin: 5px;
+    width: 250px;
+    height: auto;
+    display: inline-block;
+}
+.tasks{
+    min-width: 200px;
+    min-height: 80%;
+}
+.task{
+    margin: 10px;
+    background-color: dodgerblue;
+    width: auto;
+    height: auto;
+}
+
+.collum-header{
+    text-align: center;
+}
+.pTitleCollum, .pQuantTask{
+    margin: 10px;
+    display: inline-block;
+    font-size: 20pt;
+}
+.inputHidden{
+    margin: 10px;
+    display: none;
+}
+.btnImg{
+    display: inline-block;
+    height: 25px;
+}
